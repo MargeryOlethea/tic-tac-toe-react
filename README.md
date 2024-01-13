@@ -1,6 +1,6 @@
 # Tic-Tac-Toe: React's X's and O's Challenge
 
-Sharpen your React skills with this simple Tic-Tac-Toe game! This project focuses on mastering core React concepts while offering a fun and interactive experience.
+Sharpening my React skills with this simple Tic-Tac-Toe game! This project focuses on mastering core React concepts while offering a fun and interactive experience.
 
 ## Key Features
 - Classic Tic-Tac-Toe gameplay: Challenge a friend in a battle of X's and O's.
